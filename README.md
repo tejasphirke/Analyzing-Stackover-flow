@@ -2,7 +2,7 @@
 
 ## Introduction to data science
 
-## Project: Amsterdam airbnb listings Analysis 2020
+## Project: Amsterdam airbnb listings Analysis 
 
 ### Installations:
 This project requires Python 3.x and the following Python libraries installed:
