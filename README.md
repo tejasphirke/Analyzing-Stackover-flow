@@ -7,15 +7,15 @@
 ### Installations:
 This project requires Python 3.x and the following Python libraries installed:
 
-scikit-learn==0.21.2
+* scikit-learn==0.21.2
 
-pandas==0.24.2
+* pandas==0.24.2
 
-numpy==1.16.4
+* numpy==1.16.4
 
-matplotlib==3.1.0
+* matplotlib==3.1.0
 
-seaborn==0.9.0
+* seaborn==0.9.0
 
 You will also need to have software installed to run and execute an [ipython notebook](https://jupyter.org/)
 
