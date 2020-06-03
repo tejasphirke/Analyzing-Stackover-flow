@@ -24,7 +24,7 @@ install [Anaconda](https://www.anaconda.com/), a pre-packaged Python distributio
 ### Project Motivation
 As per Udacity Data Scientist Nanodegree project Term 2 project to write a Data science blogpost using CRISP-DM. I was intriguted to analyze and find business related questions about airbnb listings for Amsterdam city. This interest stem from being a frequent user of airbnb and a curious traveler that is interested in knowning the trends in prices and what can affect.
 
-This can can be modified to analyze other data sets other than amsterdam data.
+This can can be modified to analyze other data sets other than amsterdam data, for more information refer to the medium blogpost for this project: 
 
 ### Summary of the project
 In this notebook I wanted to analyze the Amsterdam airbnb listings. I used descriptive statistics and Kmean clustering to answer the following questions:
