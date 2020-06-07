@@ -5,7 +5,7 @@
 ### Introduction
 Stackoverflow is the top website where it fullfills the students questions and can be answered by professional developers. So, I analyze the stackoverflow data 2019, here is the [link](https://insights.stackoverflow.com/survey). 
 
-This can can be modified to analyze other data sets other than amsterdam data, for more information refer to the medium blogpost for this project: https://medium.com/@tejasphirke/amsterdam-airbnb-data-analysis-of-2020-68f222e737ce### Installations:
+I have also sahred information in the medium blogpost for this project: https://medium.com/@tejasphirke/stack-overflow-data-analysis-2019-56940269b6b4###
 
 the below libraries is used :
 
