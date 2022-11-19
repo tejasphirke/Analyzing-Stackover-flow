@@ -1,4 +1,4 @@
-# Data Scientist Nanodegree
+
 
 ## Project: The different way to understand and analyze stackoverflow data 
 
